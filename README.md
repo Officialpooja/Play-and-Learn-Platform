@@ -3,7 +3,7 @@ This is a simple quiz game. Which is named as "Play And Learn Platform".The game
 # How to play
 1.First compile the quiz_game.cpp file using C++ compiler.
 
-2. Register your username with password.
+2.Register your username with password.
    
 3.Login with the registered username and password.
 
